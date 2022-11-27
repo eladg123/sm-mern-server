@@ -1,2 +1,2 @@
-# sm-mern-server
+# sm-mern-backend
  
